@@ -45,7 +45,7 @@ print(selected_columns)
 print("\n")
 
 # Method 2: Using loc accessor
-selected_columns = df.loc[:, ['Name', 'Salary']]
+selected_columns = df.loc[:, ['Name', 'Salary']] # " : " indicates select all rows
 print("Selected columns (Method 2):")
 print(selected_columns)
 print("\n")
