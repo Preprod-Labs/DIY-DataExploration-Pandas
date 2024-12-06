@@ -2,7 +2,6 @@
 # Purpose: Demonstrate the use of window functions in pandas (similar to SQL window functions)
 
 # META DATA - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-# Developer details:
 #   Version      : V 1.0
 #   Unit test    : Pass
 #   Integration test: Pass
